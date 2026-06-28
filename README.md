@@ -1,2 +1,2 @@
-# ScanCore-webScraper
-A cool python based web scraper
+# The ScanCore Web Scraper
+
